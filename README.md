@@ -46,7 +46,7 @@ I created this project in order to facilitate the construction of any project in
 npm start
 ```
 
-## Routes
+### Routes
 
 #### /
 
@@ -69,16 +69,6 @@ _implementation of a route change_
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available
-
-## tags
-
-- [(redux)](https://github.com/your/project/tags)
-- [(redux-persist)](https://github.com/your/project/tags)
-- [(redux-thunk)](https://github.com/your/project/tags)
-- [(redux-devtools-extension)](https://github.com/your/project/tags)
-- [(history)](https://github.com/your/project/tags)
-- [(connect-react-router)](https://github.com/your/project/tags)
-- [(combineReducers)](https://github.com/your/project/tags)
 
 ## Author
 
