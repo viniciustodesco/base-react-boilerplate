@@ -1,9 +1,9 @@
-import React from "react";
-import { Provider } from "react-redux";
-import { PersistGate } from "redux-persist/integration/react";
-import { ConnectedRouter } from "connected-react-router";
+import React from 'react'
+import { Provider } from 'react-redux'
+import { PersistGate } from 'redux-persist/integration/react'
+import { ConnectedRouter } from 'connected-react-router'
 
-import Shell from "./layout/shell";
+import Shell from './layout/shell'
 
 const App = ({ store, history, persistor }) => (
   <Provider store={store}>
@@ -13,6 +13,6 @@ const App = ({ store, history, persistor }) => (
       </ConnectedRouter>
     </PersistGate>
   </Provider>
-);
+)
 
-export default App;
+export default App
