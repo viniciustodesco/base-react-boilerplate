@@ -4,8 +4,8 @@ class Footer extends React.Component {
   render() {
     return (
       <footer className="footer text-center">
-        All Rights Reserved by Xtreme admin. Designed and Developed by{' '}
-        <a href="https://wrappixel.com">WrapPixel</a>.
+        All Rights Reserved by Premmiar admin. Designed and Developed by{' '}
+        <a href="https://premmiar.com.br">Premmiar</a>.
       </footer>
     )
   }

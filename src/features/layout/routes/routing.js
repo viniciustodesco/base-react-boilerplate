@@ -11,13 +11,13 @@ let AppRoutes = [
   {
     path: '/todo',
     name: 'To-do',
-    icon: 'ti-work',
+    icon: 'ti-move',
     component: TodoList
   },
   {
     path: '/',
     pathTo: '/dashboard',
-    name: 'outros',
+    name: 'any',
     redirect: true
   }
 ]
