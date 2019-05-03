@@ -1,6 +1,6 @@
 import React from 'react'
 import { Switch, Route } from 'react-router'
-import Routes from './routes/index.js'
+import Routes from './routes/index.jsx'
 import { HashRouter } from 'react-router-dom'
 
 const Shell = () => (

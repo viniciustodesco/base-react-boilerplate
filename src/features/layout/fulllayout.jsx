@@ -3,7 +3,7 @@ import { Route, Switch, Redirect } from 'react-router-dom'
 import Header from './components/header/header.jsx'
 import Sidebar from './components/sidebar/sidebar.jsx'
 import Footer from './components/footer/footer.jsx'
-import AppRoutes from './routes/routing.js'
+import AppRoutes from './routes/routing.jsx'
 
 class Fulllayout extends React.Component {
   /*--------------------------------------------------------------------------------*/
